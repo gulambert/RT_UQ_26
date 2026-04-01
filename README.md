@@ -21,3 +21,11 @@ This repo is a subset of the future ActiveDGSM repo linked to the paper :
 "Gradient-based Active Learning with Gaussian Processes for Global Sensitivity Analysis"
 
 Have a good day !
+
+
+
+
+
+
+
+P.S : For those who asked, the Jacques 🍏 was a reference to former French president.
